@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hash", "Hash\Hash.vcxproj", "{214AC18E-8625-4B42-A104-37E44B8CC415}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTree", "BinaryTree\BinaryTree.vcxproj", "{9ACDF3C1-2210-402E-B57C-237E3BC2F2CA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AVL Tree", "AVL Tree\AVL Tree.vcxproj", "{EDB77DAC-C260-4089-8D0A-F6A1F3E623A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RedBlackTree", "RedBlackTree\RedBlackTree.vcxproj", "{BBA0DF13-F8BD-4C98-850F-BEA4C8E33D1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AATree", "AATree\AATree.vcxproj", "{22E19A42-298B-4E20-8D3E-1A0C779B7706}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graph", "Graph\Graph.vcxproj", "{14CA4CD6-03CA-4BB5-8A88-F99BDF291F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214AC18E-8625-4B42-A104-37E44B8CC415}.Debug|Win32.ActiveCfg = Debug|Win32
+		{214AC18E-8625-4B42-A104-37E44B8CC415}.Debug|Win32.Build.0 = Debug|Win32
+		{214AC18E-8625-4B42-A104-37E44B8CC415}.Release|Win32.ActiveCfg = Release|Win32
+		{214AC18E-8625-4B42-A104-37E44B8CC415}.Release|Win32.Build.0 = Release|Win32
+		{9ACDF3C1-2210-402E-B57C-237E3BC2F2CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9ACDF3C1-2210-402E-B57C-237E3BC2F2CA}.Debug|Win32.Build.0 = Debug|Win32
+		{9ACDF3C1-2210-402E-B57C-237E3BC2F2CA}.Release|Win32.ActiveCfg = Release|Win32
+		{9ACDF3C1-2210-402E-B57C-237E3BC2F2CA}.Release|Win32.Build.0 = Release|Win32
+		{EDB77DAC-C260-4089-8D0A-F6A1F3E623A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDB77DAC-C260-4089-8D0A-F6A1F3E623A6}.Debug|Win32.Build.0 = Debug|Win32
+		{EDB77DAC-C260-4089-8D0A-F6A1F3E623A6}.Release|Win32.ActiveCfg = Release|Win32
+		{EDB77DAC-C260-4089-8D0A-F6A1F3E623A6}.Release|Win32.Build.0 = Release|Win32
+		{BBA0DF13-F8BD-4C98-850F-BEA4C8E33D1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBA0DF13-F8BD-4C98-850F-BEA4C8E33D1D}.Debug|Win32.Build.0 = Debug|Win32
+		{BBA0DF13-F8BD-4C98-850F-BEA4C8E33D1D}.Release|Win32.ActiveCfg = Release|Win32
+		{BBA0DF13-F8BD-4C98-850F-BEA4C8E33D1D}.Release|Win32.Build.0 = Release|Win32
+		{22E19A42-298B-4E20-8D3E-1A0C779B7706}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22E19A42-298B-4E20-8D3E-1A0C779B7706}.Debug|Win32.Build.0 = Debug|Win32
+		{22E19A42-298B-4E20-8D3E-1A0C779B7706}.Release|Win32.ActiveCfg = Release|Win32
+		{22E19A42-298B-4E20-8D3E-1A0C779B7706}.Release|Win32.Build.0 = Release|Win32
+		{14CA4CD6-03CA-4BB5-8A88-F99BDF291F87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14CA4CD6-03CA-4BB5-8A88-F99BDF291F87}.Debug|Win32.Build.0 = Debug|Win32
+		{14CA4CD6-03CA-4BB5-8A88-F99BDF291F87}.Release|Win32.ActiveCfg = Release|Win32
+		{14CA4CD6-03CA-4BB5-8A88-F99BDF291F87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

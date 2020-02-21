@@ -1,0 +1,37 @@
+﻿Build started 7/25/2019 11:15:46 AM.
+     1>Project "F:\CTDL & GT\DataStructureAndProblemSolving\RedBlackTree\RedBlackTree.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(547): warning C4018: '<' : signed/unsigned mismatch
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(531) : while compiling class template member function 'void RED_BLACK_TREE<std::string>::drawTree(void)'
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\main.cpp(24) : see reference to function template instantiation 'void RED_BLACK_TREE<std::string>::drawTree(void)' being compiled
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\main.cpp(8) : see reference to class template instantiation 'RED_BLACK_TREE<std::string>' being compiled
+     1>f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(314): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(310) : while compiling class template member function 'int RED_BLACK_TREE<std::string>::S(const int &)'
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(545) : see reference to function template instantiation 'int RED_BLACK_TREE<std::string>::S(const int &)' being compiled
+     1>f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(323): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(317) : while compiling class template member function 'int RED_BLACK_TREE<std::string>::A(const int &)'
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(549) : see reference to function template instantiation 'int RED_BLACK_TREE<std::string>::A(const int &)' being compiled
+     1>f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(424): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(411) : while compiling class template member function 'void RED_BLACK_TREE<std::string>::listKeyEqualDepth(NODE<T> *,std::vector<int,std::allocator<_Ty>> &,const int &)'
+                 with
+                 [
+                     T=std::string
+         ,            _Ty=int
+                 ]
+                 f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(502) : see reference to function template instantiation 'void RED_BLACK_TREE<std::string>::listKeyEqualDepth(NODE<T> *,std::vector<int,std::allocator<_Ty>> &,const int &)' being compiled
+                 with
+                 [
+                     T=std::string
+         ,            _Ty=int
+                 ]
+     1>f:\ctdl & gt\datastructureandproblemsolving\redblacktree\redblacktree.h(430): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CTDL & GT\DataStructureAndProblemSolving\Debug\RedBlackTree.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\CTDL & GT\DataStructureAndProblemSolving\Debug\RedBlackTree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CTDL & GT\DataStructureAndProblemSolving\Debug\RedBlackTree.lib" /MACHINE:X86 Debug\Main.obj
+         RedBlackTree.vcxproj -> F:\CTDL & GT\DataStructureAndProblemSolving\Debug\RedBlackTree.exe
+     1>Done Building Project "F:\CTDL & GT\DataStructureAndProblemSolving\RedBlackTree\RedBlackTree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.86
