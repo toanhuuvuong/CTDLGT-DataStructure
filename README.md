@@ -1,5 +1,5 @@
 # CTDLGT-DataStructure
-### Tổng hợp các cấu trúc dữ liệu
+### Các cấu trúc dữ liệu
 + AATree
 + AVLTree
 + BinarySearchTree
